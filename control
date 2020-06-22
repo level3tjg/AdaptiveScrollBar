@@ -1,0 +1,9 @@
+Package: com.level3tjg.adaptivescrollbar
+Name: AdaptiveScrollBar
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Move the scrollbar depending on what side of the screen you're scrolling from
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
